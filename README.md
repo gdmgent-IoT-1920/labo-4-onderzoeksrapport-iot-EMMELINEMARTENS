@@ -1,19 +1,19 @@
 Cloud IoT platformen
 
-# 1.Wat is een Cloud IoT Platform?
+## 1.Wat is een Cloud IoT Platform?
 
 We analyseren dit begrip in kleine stappen. Beginnende met het uitleggen van wat een IoT Platform nu net is. Een IoT Platform is een platform die een netwerk verbindt met sensoren en elektronische apparaten die ook verbonden zijn met het internet. Het netwerk waar men bij een IoT Platform over spreekt is het internet. Het internet zorgt ervoor dat de verschillende toestellen met elkaar kunnen communiceren aan de hand van data of ook wel gegevens van het eigen toestel die ze met elkaar uitwisselen. Het ene toestel verzendt de data naar het ander toestel en deze ontvangt de geregistreerde gegevens of ook wel de data. IoT staat voor internet of Things waardoor de naamgeving ook nog eens duidelijk maakt dat het om een verbinding gaat via het internet. Het is de bedoeling dat de toestellen die via een IoT Platform werken vanop een afstand die data kunnen versturen naar elkaar zonder dat ze dus naast elkaar moeten staan. We spreken van een Cloud IoT Platform omdat deze data die wordt doorgestuurd en ontvangen door het andere toestel ook online wordt opgeslagen op het internet zodat deze gegevens niet verloren gaan. Als we dit kort samenvatten wat een Cloud IoT Platform nu is dan is dat de data die verzamelt wordt door de verschillende sensoren, vastgelegd en geanalyseerd worden en deze data dan wordt opgeslagen op een plaatsje in de server op het internet. 
 
 <img src=">
 
-# 2.Werking Cloud IoT Platform?
+## 2.Werking Cloud IoT Platform?
 
 De werking van een Cloud IoT Platform gaat als volgt. Je hebt een elektrisch toestel die bevindt zich in het device Platform. Dit toestel gaat aan de hand van verschillende sensoren die data registreren. Deze data wordt verstuurd via het internet naar de Cloud. Het internet behoort tot het connectivity platform. Het netwerk dat het elektrische toestel gebruikt is het internet. Deze geregistreerde data van de verschillende sensoren die worden dan omgezet naar een computercode. Deze computercode komt dan toe in de Cloud. Daar wordt de data die de computercode met zich meebrengt geanalyseerd en daarna opgeslagen in de Cloud. Zo kan de gebruiker deze data opvragen aan de hand van een applicatie die de gebruiker heeft gedownload. En zo kan hij ook data die hij wil wijzigen doorzenden naar het elektrische toestel via dezelfde verbindingslijn. De Cloud en applicatie behoren tot het IoT Platform. 
 
 
-# 3.Cloud IoT Platformen
+## 3.Cloud IoT Platformen
 
-## 3.1 Thingworx 8 IoT Platform
+### 3.1 Thingworx 8 IoT Platform
 
 Thingworx 8 IoT Platform is één van de betere IoT Platforms. Vooral industriële bedrijven maken gebruik van dit platform. 
 Thingworx 8 is gedesignd door PTC en is voornamelijk voor applicaties. 
@@ -26,7 +26,7 @@ Als we dan naar de voordelen kijken van dit platform kunnen we zeggen dat het ee
 
 Ook brengt dit platform een paar nadelen met zich mee. Het gebruik van op maat gemaakte programma's in de programmeertaal Seasharp worden niet ondersteun door dit IoT platform. Ook het bedienen van de toestellen ,die gekoppeld zijn aan complexe systemen die zijn moeilijk te beheren. Het laatste nadeel dat dit IoT Platform met zich meebrengt is dat je maar gelimiteerd programma's kan instaleren op dit platform.
 
-## 3.2 Microsoft Azure IoT Suite
+### 3.2 Microsoft Azure IoT Suite
 
 Het tweede Cloud IoT Platform dat we kennen is de Microsoft Azure IoT Suite. Deze is ontwikkeld door de makers van Microsoft. Een technologie gigant wat programmasoftware betreft die ons zeker niet onbekend is. Wat uniek is aan dit IoT Platform is dat ze meebouwen aan nieuwe IoT oplossingen maar dit aan de hand van de integratie van bestaande oplossingen. Het platform die analyseert ook onbelaste data maar ook als een nieuwe data is kan dit platform deze makkelijk verwerken. 
 
@@ -37,11 +37,8 @@ Als we dan kijken naar de voordelen van dit Cloud IoT Platform. Zien we dat bij 
 
 Als we dan naar de nadelen kijken van dit IoT Platform kunnen we zeggen dat dat er vereist beheer moet zijn vooral eer we dit IoT Platform kunnen gebruiken. Daarmee die externe bedrijven die makkelijk te integreren zijn om dit beheer zo vlot mogelijk te laten verlopen. Het is een zeer duur Cloud IoT Platform en bij het optreden van een bug binnen dit IoT Platform wordt er geen ondersteuning geboden. Wat een enorm nadeel kan zijn. 
 
-<<<<<<< HEAD
-## 3.3 Google Cloud IoT Platform
-=======
-3.3 Google Cloud IoT Platform
->>>>>>> 18dc6fcc4ba751c77942c65255ae2cf0d7da14da
+
+### 3.3 Google Cloud IoT Platform
 
 Het volgende Cloud IoT Platform dat we kennen is ons zeker niet onbekend. We weten al dat Google van alle markten thuis is wat technologieën betreft waardoor ze dan ook hun eigen Cloud IoT Platform hebben. Google Cloud IoT Platform wordt gezien als één van de beste IoT Platforms. Dit komt doordat Google zelf end-to-end platforms heeft. Dit heeft als enorme voordeel dat ze makelijk kunen conneteren met het netwerk,  data kunnen opslaan en dan ook die data kunnen beheren. Het is voornamelijk om je business te schalen. Google heeft als hoofddoel zijn gebruikers het zo makkelijk mogelijk te maken. Het Google Cloud Platform speelt in op bepaalde functionaliteiten dat zei belangrijk vinden. Het Google Cloud Platform IoT Platform die heeft een zeer hoog opslaggeheugen. Het bevat een zeer hoge bescherming, is intelligent en zorgt voor snel reagerende data. Het is effeciënt en schaalbaar en analyseert veel data. 
 
@@ -49,11 +46,9 @@ De voordelen van het Google Cloud Platform zijn dat het Google Cloud Platform da
 
 De grote nadelen van dit Google Cloud Platform zijn. Je kan er enkel Google services in implementeren en geen andere toepassingen van andere bedrijven. Er is een limiet van programeertalen die het kan gebruiken. 
 
-<<<<<<< HEAD
-## 3.4 IBM Watson IoT Platform
-=======
-3.4 IBM Watson IoT Platform
->>>>>>> 18dc6fcc4ba751c77942c65255ae2cf0d7da14da
+
+### 3.4 IBM Watson IoT Platform
+
 
 Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook één van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en interfaces2. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
 
@@ -97,7 +92,7 @@ Zo heb ik de grootste techgiganten Cloud IoT platforms uitgelegd maar je hebt er
 ---------------
 
 ------------------------------------------------------------
-### Sources
+#### Sources
 
 https://dzone.com/articles/10-cloud-platforms-for-internet-of-things-iot
 https://internetofthingsnederland.nl/iot-platform-toepassingen/
