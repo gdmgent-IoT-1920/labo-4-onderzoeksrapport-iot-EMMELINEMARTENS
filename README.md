@@ -37,11 +37,11 @@ Ook brengt dit platform een paar nadelen met zich mee. Het gebruik van op maat g
 
 Het tweede Cloud IoT Platform dat we kennen is de Microsoft Azure IoT Suite. Deze is ontwikkeld door de makers van Microsoft. Een technologie gigant wat programmasoftware betreft die ons zeker niet onbekend is. Wat uniek is aan dit IoT Platform is dat ze meebouwen aan nieuwe IoT oplossingen maar dit aan de hand van de integratie van bestaande oplossingen. Het platform die analyseert ook onbelaste data maar ook als een nieuwe data is kan dit platform deze makkelijk verwerken. 
 
-Als we naar hun IoT Platform kijken zien we dat deze ook voldoen aan bepaalde functionaliteiten. Deze zijn namelijk een makkelijke registratie van de elektrische toestellen. Waar hun IoT Platforms ook voor staan is dat je makkelijke andere IoT Platforms kan integreren zoals [SAP][1] , Salesforce ,Oracle, Websphere ,etc. Deze bedrijven hebben allemaal hun eigen Cloud IoT Platform ontwikkeld die je dan kan implementeren in dit IoT Platform. Dashboard en visuele weergave zijn ook een functionaliteit dat ze aanbieden. Live streaming mogelijk via dit IoT Platform. 
+Als we naar hun IoT Platform kijken zien we dat deze ook voldoen aan bepaalde functionaliteiten. Deze zijn namelijk een makkelijke registratie van de elektrische toestellen. Waar hun IoT Platforms ook voor staan is dat je makkelijke andere IoT Platforms kan integreren zoals [SAP] [1] , Salesforce ,Oracle, Websphere ,etc. Deze bedrijven hebben allemaal hun eigen Cloud IoT Platform ontwikkeld die je dan kan implementeren in dit IoT Platform. Dashboard en visuele weergave zijn ook een functionaliteit dat ze aanbieden. Live streaming mogelijk via dit IoT Platform. 
 
 ![image](https://user-images.githubusercontent.com/50316143/78038921-b7c51f00-736d-11ea-9960-ff876b59d55d.png)
 
-[1]: Systems, Application and data processing
+
 
 Als we dan kijken naar de voordelen van dit Cloud IoT Platform. Zien we dat bij dit IoT Platform makkelijk kan samenwerken met andere bedrijven die ook bezig zijn met web applicaties, web en data processing. Een ander groot voordeel van dit IoT Platform is dat het zeer veilig is en schaalbaar. Het laatste voordeel van dit platform is dat het een hoge beschikbaarheid heeft. Je bezit over een heel groot aantal GB opslagcapaciteit. 
 
@@ -62,7 +62,7 @@ De grote nadelen van dit Google Cloud Platform zijn. Je kan er enkel Google serv
 ### 3.4 IBM Watson IoT Platform
 
 
-Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook één van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en interfaces2. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
+Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook één van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en [interfaces] [2]. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
 
 Als we dan naar de functionaliteiten kijken van dit platform kunnen we zeggen dat de juist geregistreerde data direct veranderen. Ze verzekeren een veilige communicatie en cognitieve systemen. En je kan er zelf de data over het weer mee oproepen.
 
@@ -80,7 +80,7 @@ Dit platform bevat ook enkel functionaliteiten. Deze bestaan er uit dat je makke
 
 ![image](https://user-images.githubusercontent.com/50316143/78039158-083c7c80-736e-11ea-992a-cf937b58a867.png)
 
-Het voordeel is dat het AWS IoT Platform een goede integratie verzekert van LAAS. Dat de prijs vermindert naar gelang de jaren. Dat het platform Open en flexible is. 
+Het voordeel is dat het AWS IoT Platform een goede integratie verzekert van [LAAS] [3]. Dat de prijs vermindert naar gelang de jaren. Dat het platform Open en flexible is. 
 
 Als we dan naar de nadelen kijken dan kunnen we zeggen dat het hosten van een kritische applicatie niet veilig verloopt. Er al enkele storingen geweest zij op dit platform. En het was ook een grote leercurve voor de AWS te realiseren. 
 
@@ -104,9 +104,9 @@ Zo heb ik de grootste techgiganten Cloud IoT platforms uitgelegd maar je hebt er
 
 ---------------
 <!--Reference links in article-->
-
-[2]: http://search.yahoo.com/
-[3]: http://search.msn.com/
+[1]: Systems, Application and data processing
+[2]: Wat we visueel zien
+[3]: Lab as an service
 
 ------------------------------------------------------------
 #### Sources
