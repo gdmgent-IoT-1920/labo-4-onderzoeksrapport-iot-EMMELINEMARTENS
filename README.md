@@ -112,11 +112,17 @@ Zo heb ik de grootste techgiganten Cloud IoT platforms uitgelegd maar je hebt er
 #### Sources
 
 https://dzone.com/articles/10-cloud-platforms-for-internet-of-things-iot
+
 https://internetofthingsnederland.nl/iot-platform-toepassingen/
+
 https://www.seniorweb.nl/artikel/wat-is-cloud
+
 https://uploads-ssl.webflow.com/57a8432fc1305fe20948e968/5a9e63659cbfbc0001835a38_IoT-whitepaper%20-%20IoT%20Platformen-201803.pdf
+
 https://searchsap.techtarget.com/definition/SAP
+
 https://www.salesforce.com/in/products/what-is-salesforce/
+
 https://cloud.google.com/solutions/iot/
 
 https://go.spirent.com/EB-Lab-as-a-Service.html?utm_source=google&utm_medium=cpc&utm_campaign=Lifecycle%20Service%20Assurance%20&utm_term=laas&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1v7RJKelyKrk3AP9xeBVrDCZxwupJl3ga2EHCCaofyLp8n6PHCuWAgaAg0IEALw_wcB
