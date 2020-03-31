@@ -11,7 +11,7 @@ De werking van een Cloud IoT Platform gaat als volgt. Je hebt een elektrisch toe
 
 3. Cloud IoT Platformen
 
-3.1 Thingworx 8 IoT Platform
+  3.1 Thingworx 8 IoT Platform
 
 Thingworx 8 IoT Platform is één van de betere IoT Platforms. Vooral industri�le bedrijven maken gebruik van dit platform. 
 Thingworx 8 is gedesignd door PTC en is voornamelijk voor applicaties. 
@@ -24,7 +24,7 @@ Als we dan naar de voordelen kijken van dit platform kunnen we zeggen dat het ee
 
 Ook brengt dit platform een paar nadelen met zich mee. Het gebruik van op maat gemaakte programma's in de programmeertaal Seasharp worden niet ondersteun door dit IoT platform. Ook het bedienen van de toestellen ,die gekoppeld zijn aan complexe systemen die zijn moeilijk te beheren. Het laatste nadeel dat dit IoT Platform met zich meebrengt is dat je maar gelimiteerd programma's kan instaleren op dit platform.
 
-3.2 Microsoft Azure IoT Suite
+  3.2 Microsoft Azure IoT Suite
 
 Het tweede Cloud IoT Platform dat we kennen is de Microsoft Azure IoT Suite. Deze is ontwikkeld door de makers van Microsoft. Een technologie gigant wat programmasoftware betreft die ons zeker niet onbekend is. Wat uniek is aan dit IoT Platform is dat ze meebouwen aan nieuwe IoT oplossingen maar dit aan de hand van de integratie van bestaande oplossingen. Het platform die analyseert ook onbelaste data maar ook als een nieuwe data is kan dit platform deze makkelijk verwerken. 
 
@@ -35,7 +35,7 @@ Als we dan kijken naar de voordelen van dit Cloud IoT Platform. Zien we dat bij 
 
 Als we dan naar de nadelen kijken van dit IoT Platform kunnen we zeggen dat dat er vereist beheer moet zijn vooral eer we dit IoT Platform kunnen gebruiken. Daarmee die externe bedrijven die makkelijk te integreren zijn om dit beheer zo vlot mogelijk te laten verlopen. Het is een zeer duur Cloud IoT Platform en bij het optreden van een bug binnen dit IoT Platform wordt er geen ondersteuning geboden. Wat een enorm nadeel kan zijn. 
 
-3.4 Google Cloud IoT Platform
+  3.4 Google Cloud IoT Platform
 
 Het volgende Cloud IoT Platform dat we kennen is ons zeker niet onbekend. We weten al dat Google van alle markten thuis is wat technologieën betreft waardoor ze dan ook hun eigen Cloud IoT Platform hebben. Google Cloud IoT Platform wordt gezien als één van de beste IoT Platforms. Dit komt doordat Google zelf end-to-end platforms heeft. Dit heeft als enorme voordeel dat ze makelijk kunen conneteren met het netwerk,  data kunnen opslaan en dan ook die data kunnen beheren. Het is voornamelijk om je business te schalen. Google heeft als hoofddoel zijn gebruikers het zo makkelijk mogelijk te maken. Het Google Cloud Platform speelt in op bepaalde functionaliteiten dat zei belangrijk vinden. Het Google Cloud Platform IoT Platform die heeft een zeer hoog opslaggeheugen. Het bevat een zeer hoge bescherming, is intelligent en zorgt voor snel reagerende data. Het is effeciënt en schaalbaar en analyseert veel data. 
 
@@ -45,7 +45,7 @@ De grote nadelen van dit Google Cloud Platform zijn. Je kan er enkel Google serv
 
 IBM Watson IoT Platform
 
-Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook ��n van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en interfaces2. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
+Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook één van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en interfaces2. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
 
 Als we dan naar de functionaliteiten kijken van dit platform kunnen we zeggen dat de juist geregistreerde data direct veranderen. Ze verzekeren een veilige communicatie en cognitieve systemen. En je kan er zelf de data over het weer mee oproepen.
 
@@ -55,7 +55,7 @@ De grote voordelen aan dit platform zijn dan weer dat het platform in staat is o
 
 De grote nadelen van dit platform zijn dan weer dat het platform veel kost om te kunnen omwisselen. Dat het zijn tijd neemt voor de Watson integratie. Dat het heel veel onderhoud nodig heeft. 
 
-3.5 AWS IoT Platform
+  3.5 AWS IoT Platform
 
 AWS IoT Platform is een platform dat gemaakt is door Amazon. Amazon is zeker ook één van de bedrijven die tot de IT bedrijven hoort. Amazon is een zeer gekend bedrijf bij de bevolkig van ieder continent. Ze zijn een online bedrijf waardoor ze iedereen altijd kunnen bereiken. Amazon heeft ook zijn naam al gemaakt met andere toepassingen zoals de onlineshop, Alexa dat lijkt op een Google Home en nu zelf ook een Cloud IoT Platform. AWS IoT Platform die zorgt er voor dat programmeurs makkelijk hun data kunnen opslaan en opvragen van de geregistreerde sensoren en andere toestellen die verbonden zijn met het internet. Via dit platform helpen ze je data te registreren, slaan ze dit op in de Cloud en analyseren die informatie die je daarna kan ophalen via een applic	atie.
 
@@ -93,11 +93,11 @@ https://go.spirent.com/EB-Lab-as-a-Service.html?utm_source=google&utm_medium=cpc
 
 
 
+
+---------------
 1 Systems, Application and data processing
 2 Wat we visueel zien
 3 Lab as an service
----------------
-
 ------------------------------------------------------------
 
 ---------------
