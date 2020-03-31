@@ -1,19 +1,21 @@
 Cloud IoT platformen
 
-1.Wat is een Cloud IoT Platform?
+#1.Wat is een Cloud IoT Platform?
 
 We analyseren dit begrip in kleine stappen. Beginnende met het uitleggen van wat een IoT Platform nu net is. Een IoT Platform is een platform die een netwerk verbindt met sensoren en elektronische apparaten die ook verbonden zijn met het internet. Het netwerk waar men bij een IoT Platform over spreekt is het internet. Het internet zorgt ervoor dat de verschillende toestellen met elkaar kunnen communiceren aan de hand van data of ook wel gegevens van het eigen toestel die ze met elkaar uitwisselen. Het ene toestel verzendt de data naar het ander toestel en deze ontvangt de geregistreerde gegevens of ook wel de data. IoT staat voor internet of Things waardoor de naamgeving ook nog eens duidelijk maakt dat het om een verbinding gaat via het internet. Het is de bedoeling dat de toestellen die via een IoT Platform werken vanop een afstand die data kunnen versturen naar elkaar zonder dat ze dus naast elkaar moeten staan. We spreken van een Cloud IoT Platform omdat deze data die wordt doorgestuurd en ontvangen door het andere toestel ook online wordt opgeslagen op het internet zodat deze gegevens niet verloren gaan. Als we dit kort samenvatten wat een Cloud IoT Platform nu is dan is dat de data die verzamelt wordt door de verschillende sensoren, vastgelegd en geanalyseerd worden en deze data dan wordt opgeslagen op een plaatsje in de server op het internet. 
 
-2.Werking Cloud IoT Platform?
+<img src=">
+
+#2.Werking Cloud IoT Platform?
 
 De werking van een Cloud IoT Platform gaat als volgt. Je hebt een elektrisch toestel die bevindt zich in het device Platform. Dit toestel gaat aan de hand van verschillende sensoren die data registreren. Deze data wordt verstuurd via het internet naar de Cloud. Het internet behoort tot het connectivity platform. Het netwerk dat het elektrische toestel gebruikt is het internet. Deze geregistreerde data van de verschillende sensoren die worden dan omgezet naar een computercode. Deze computercode komt dan toe in de Cloud. Daar wordt de data die de computercode met zich meebrengt geanalyseerd en daarna opgeslagen in de Cloud. Zo kan de gebruiker deze data opvragen aan de hand van een applicatie die de gebruiker heeft gedownload. En zo kan hij ook data die hij wil wijzigen doorzenden naar het elektrische toestel via dezelfde verbindingslijn. De Cloud en applicatie behoren tot het IoT Platform. 
 
 
-3.Cloud IoT Platformen
+#3.Cloud IoT Platformen
 
-3.1 Thingworx 8 IoT Platform
+##3.1 Thingworx 8 IoT Platform
 
-Thingworx 8 IoT Platform is één van de betere IoT Platforms. Vooral industri�le bedrijven maken gebruik van dit platform. 
+Thingworx 8 IoT Platform is één van de betere IoT Platforms. Vooral industriële bedrijven maken gebruik van dit platform. 
 Thingworx 8 is gedesignd door PTC en is voornamelijk voor applicaties. 
 
 Dit Cloud Platform bevat dan ook de basis functionaliteiten. De connectie is zeer gemakkelijk tussen de verschillende elektrische toestellen. Wanneer alle instellingen gebeurt zijn dan kan je de toestellen van op een afstand bedienen. In dit platform zijn er ook bepaalde functionaliteiten ingebouwd in het dashboard. En deze gaat automatisch complexe code omzetten naar gestructureerde code. Je kan er machine learning op integreren.
@@ -24,7 +26,7 @@ Als we dan naar de voordelen kijken van dit platform kunnen we zeggen dat het ee
 
 Ook brengt dit platform een paar nadelen met zich mee. Het gebruik van op maat gemaakte programma's in de programmeertaal Seasharp worden niet ondersteun door dit IoT platform. Ook het bedienen van de toestellen ,die gekoppeld zijn aan complexe systemen die zijn moeilijk te beheren. Het laatste nadeel dat dit IoT Platform met zich meebrengt is dat je maar gelimiteerd programma's kan instaleren op dit platform.
 
-3.2 Microsoft Azure IoT Suite
+##3.2 Microsoft Azure IoT Suite
 
 Het tweede Cloud IoT Platform dat we kennen is de Microsoft Azure IoT Suite. Deze is ontwikkeld door de makers van Microsoft. Een technologie gigant wat programmasoftware betreft die ons zeker niet onbekend is. Wat uniek is aan dit IoT Platform is dat ze meebouwen aan nieuwe IoT oplossingen maar dit aan de hand van de integratie van bestaande oplossingen. Het platform die analyseert ook onbelaste data maar ook als een nieuwe data is kan dit platform deze makkelijk verwerken. 
 
@@ -70,7 +72,7 @@ AWS IoT Platform is een platform dat gemaakt is door Amazon. Amazon is zeker ook
 Dit platform bevat ook enkel functionaliteiten. Deze bestaan er uit dat je makkelijk je toestellen kan beheren.Dat er een veilige connectie wordt verzekerd tussen de verschillende toestellen. Er wordt gedaan aan identificatie en gaan automatisch berichten gaan vertalen naar een code die derden niet kunnen vertalen zonder over de juiste key te beschikken.
 
 
-Het voordeel is dat het AWS IoT Platform een goede integratie verzekert van LAAS3. Dat de prijs vermindert naar gelang de jaren. Dat het platform Open en flexible is. 
+Het voordeel is dat het AWS IoT Platform een goede integratie verzekert van LAAS. Dat de prijs vermindert naar gelang de jaren. Dat het platform Open en flexible is. 
 
 Als we dan naar de nadelen kijken dan kunnen we zeggen dat het hosten van een kritische applicatie niet veilig verloopt. Er al enkele storingen geweest zij op dit platform. En het was ook een grote leercurve voor de AWS te realiseren. 
 
