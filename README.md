@@ -5,11 +5,13 @@
 We analyseren dit begrip in kleine stappen. Beginnende met het uitleggen van wat een IoT Platform nu net is. Een IoT Platform is een platform die een netwerk verbindt met sensoren en elektronische apparaten die ook verbonden zijn met het internet. Het netwerk waar men bij een IoT Platform over spreekt is het internet. Het internet zorgt ervoor dat de verschillende toestellen met elkaar kunnen communiceren aan de hand van data of ook wel gegevens van het eigen toestel die ze met elkaar uitwisselen. Het ene toestel verzendt de data naar het ander toestel en deze ontvangt de geregistreerde gegevens of ook wel de data. IoT staat voor internet of Things waardoor de naamgeving ook nog eens duidelijk maakt dat het om een verbinding gaat via het internet. Het is de bedoeling dat de toestellen die via een IoT Platform werken vanop een afstand die data kunnen versturen naar elkaar zonder dat ze dus naast elkaar moeten staan. We spreken van een Cloud IoT Platform omdat deze data die wordt doorgestuurd en ontvangen door het andere toestel ook online wordt opgeslagen op het internet zodat deze gegevens niet verloren gaan. Als we dit kort samenvatten wat een Cloud IoT Platform nu is dan is dat de data die verzamelt wordt door de verschillende sensoren, vastgelegd en geanalyseerd worden en deze data dan wordt opgeslagen op een plaatsje in de server op het internet. 
 
 ![image](https://user-images.githubusercontent.com/50316143/78038824-96fcc980-736d-11ea-8197-89780faeb416.png)
+
 *Figuur 1 Cloud IoT Platform*
 
 ## 2. Werking Cloud IoT Platform?
 
 ![image](https://user-images.githubusercontent.com/50316143/78039237-286c3b80-736e-11ea-9b6d-d16b8d03dad4.png)
+
 *Figuur 2 werking Cloud IoT Platform*
 
 De werking van een Cloud IoT Platform gaat als volgt. Je hebt een elektrisch toestel die bevindt zich in het device Platform. Dit toestel gaat aan de hand van verschillende sensoren die data registreren. Deze data wordt verstuurd via het internet naar de Cloud. Het internet behoort tot het connectivity platform. Het netwerk dat het elektrische toestel gebruikt is het internet. Deze geregistreerde data van de verschillende sensoren die worden dan omgezet naar een computercode. Deze computercode komt dan toe in de Cloud. Daar wordt de data die de computercode met zich meebrengt geanalyseerd en daarna opgeslagen in de Cloud. Zo kan de gebruiker deze data opvragen aan de hand van een applicatie die de gebruiker heeft gedownload. En zo kan hij ook data die hij wil wijzigen doorzenden naar het elektrische toestel via dezelfde verbindingslijn. De Cloud en applicatie behoren tot het IoT Platform. 
@@ -38,7 +40,7 @@ Het tweede Cloud IoT Platform dat we kennen is de Microsoft Azure IoT Suite. Dez
 Als we naar hun IoT Platform kijken zien we dat deze ook voldoen aan bepaalde functionaliteiten. Deze zijn namelijk een makkelijke registratie van de elektrische toestellen. Waar hun IoT Platforms ook voor staan is dat je makkelijke andere IoT Platforms kan integreren zoals [SAP][1] , Salesforce ,Oracle, Websphere ,etc. Deze bedrijven hebben allemaal hun eigen Cloud IoT Platform ontwikkeld die je dan kan implementeren in dit IoT Platform. Dashboard en visuele weergave zijn ook een functionaliteit dat ze aanbieden. Live streaming mogelijk via dit IoT Platform. 
 
 ![image](https://user-images.githubusercontent.com/50316143/78038921-b7c51f00-736d-11ea-9960-ff876b59d55d.png)
------------------------------------------------
+
 [1]: Systems, Application and data processing
 
 Als we dan kijken naar de voordelen van dit Cloud IoT Platform. Zien we dat bij dit IoT Platform makkelijk kan samenwerken met andere bedrijven die ook bezig zijn met web applicaties, web en data processing. Een ander groot voordeel van dit IoT Platform is dat het zeer veilig is en schaalbaar. Het laatste voordeel van dit platform is dat het een hoge beschikbaarheid heeft. Je bezit over een heel groot aantal GB opslagcapaciteit. 
