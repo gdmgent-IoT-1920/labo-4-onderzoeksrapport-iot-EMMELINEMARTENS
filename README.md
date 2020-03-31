@@ -9,7 +9,7 @@ We analyseren dit begrip in kleine stappen. Beginnende met het uitleggen van wat
 De werking van een Cloud IoT Platform gaat als volgt. Je hebt een elektrisch toestel die bevindt zich in het device Platform. Dit toestel gaat aan de hand van verschillende sensoren die data registreren. Deze data wordt verstuurd via het internet naar de Cloud. Het internet behoort tot het connectivity platform. Het netwerk dat het elektrische toestel gebruikt is het internet. Deze geregistreerde data van de verschillende sensoren die worden dan omgezet naar een computercode. Deze computercode komt dan toe in de Cloud. Daar wordt de data die de computercode met zich meebrengt geanalyseerd en daarna opgeslagen in de Cloud. Zo kan de gebruiker deze data opvragen aan de hand van een applicatie die de gebruiker heeft gedownload. En zo kan hij ook data die hij wil wijzigen doorzenden naar het elektrische toestel via dezelfde verbindingslijn. De Cloud en applicatie behoren tot het IoT Platform. 
 
 
-3. Cloud IoT Platformen
+3.Cloud IoT Platformen
 
   3.1 Thingworx 8 IoT Platform
 
@@ -95,9 +95,7 @@ https://go.spirent.com/EB-Lab-as-a-Service.html?utm_source=google&utm_medium=cpc
 
 
 ---------------
-1 Systems, Application and data processing
-2 Wat we visueel zien
-3 Lab as an service
+
 ------------------------------------------------------------
 
 ---------------
