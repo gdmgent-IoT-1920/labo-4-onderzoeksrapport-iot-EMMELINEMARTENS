@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask-labo3</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../sensehat_board/assets/css/app.css">
+</head>
+<body>
+  <div class="container">
+      <!-- https://github.com/rogerthat-be/sense_dashboard -->
+      <form>
+          <div class="form-group color-picker">
+            <label for="color">COLOR PICKER</label>
+            <input type="text" class="form-control jscolor" id="colorPicker" value="#000">
+            <button type="submit" class="btn btn-primary" id="btnChange">Submit</button>
+          </div>
+          <div class="form-check changeTheMatrix">
+              <input type="checkbox" class="form-check-input" id="toggleMatrix">
+              <label class="form-check-label" for="toggleMatrix">Matrix on/off</label>
+          </div>
+       
+    </form>
+     
+        <div>
+              <h1>WAARDEN VAN DE SENSOR</h1>
+              <ul>
+                <li><span id="temperature"></span></li>
+                <li><span id="humidity"></span></li>
+              </ul>
+        </div>
+    </div>
+  
+
+    <!-- scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.0.4/jscolor.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.10.0/firebase-firestore.js"></script>
+    <script src="../../sensehat_board/config/firebase.js"></script>
+    <script src="../../sensehat_board/assets/js/jscolor.js"></script>
+    <script src="../../sensehat_board/assets/js//app.js"></script>
+   
+
+</body>
+</html>
