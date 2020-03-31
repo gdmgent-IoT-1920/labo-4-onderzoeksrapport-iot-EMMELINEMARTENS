@@ -1,12 +1,16 @@
-# Cloud IoT platformen
-
+# Cloud IoT platformes
+-----------------------------------------------------------------
 ## 1. Wat is een Cloud IoT Platform?
 
 We analyseren dit begrip in kleine stappen. Beginnende met het uitleggen van wat een IoT Platform nu net is. Een IoT Platform is een platform die een netwerk verbindt met sensoren en elektronische apparaten die ook verbonden zijn met het internet. Het netwerk waar men bij een IoT Platform over spreekt is het internet. Het internet zorgt ervoor dat de verschillende toestellen met elkaar kunnen communiceren aan de hand van data of ook wel gegevens van het eigen toestel die ze met elkaar uitwisselen. Het ene toestel verzendt de data naar het ander toestel en deze ontvangt de geregistreerde gegevens of ook wel de data. IoT staat voor internet of Things waardoor de naamgeving ook nog eens duidelijk maakt dat het om een verbinding gaat via het internet. Het is de bedoeling dat de toestellen die via een IoT Platform werken vanop een afstand die data kunnen versturen naar elkaar zonder dat ze dus naast elkaar moeten staan. We spreken van een Cloud IoT Platform omdat deze data die wordt doorgestuurd en ontvangen door het andere toestel ook online wordt opgeslagen op het internet zodat deze gegevens niet verloren gaan. Als we dit kort samenvatten wat een Cloud IoT Platform nu is dan is dat de data die verzamelt wordt door de verschillende sensoren, vastgelegd en geanalyseerd worden en deze data dan wordt opgeslagen op een plaatsje in de server op het internet. 
 
-<img src=">
+![image](https://user-images.githubusercontent.com/50316143/78038824-96fcc980-736d-11ea-8197-89780faeb416.png)
+*Figuur 1 Cloud IoT Platform*
 
 ## 2. Werking Cloud IoT Platform?
+
+![image](https://user-images.githubusercontent.com/50316143/78039237-286c3b80-736e-11ea-9b6d-d16b8d03dad4.png)
+*Figuur 2 werking Cloud IoT Platform*
 
 De werking van een Cloud IoT Platform gaat als volgt. Je hebt een elektrisch toestel die bevindt zich in het device Platform. Dit toestel gaat aan de hand van verschillende sensoren die data registreren. Deze data wordt verstuurd via het internet naar de Cloud. Het internet behoort tot het connectivity platform. Het netwerk dat het elektrische toestel gebruikt is het internet. Deze geregistreerde data van de verschillende sensoren die worden dan omgezet naar een computercode. Deze computercode komt dan toe in de Cloud. Daar wordt de data die de computercode met zich meebrengt geanalyseerd en daarna opgeslagen in de Cloud. Zo kan de gebruiker deze data opvragen aan de hand van een applicatie die de gebruiker heeft gedownload. En zo kan hij ook data die hij wil wijzigen doorzenden naar het elektrische toestel via dezelfde verbindingslijn. De Cloud en applicatie behoren tot het IoT Platform. 
 
@@ -31,8 +35,11 @@ Ook brengt dit platform een paar nadelen met zich mee. Het gebruik van op maat g
 
 Het tweede Cloud IoT Platform dat we kennen is de Microsoft Azure IoT Suite. Deze is ontwikkeld door de makers van Microsoft. Een technologie gigant wat programmasoftware betreft die ons zeker niet onbekend is. Wat uniek is aan dit IoT Platform is dat ze meebouwen aan nieuwe IoT oplossingen maar dit aan de hand van de integratie van bestaande oplossingen. Het platform die analyseert ook onbelaste data maar ook als een nieuwe data is kan dit platform deze makkelijk verwerken. 
 
-Als we naar hun IoT Platform kijken zien we dat deze ook voldoen aan bepaalde functionaliteiten. Deze zijn namelijk een makkelijke registratie van de elektrische toestellen. Waar hun IoT Platforms ook voor staan is dat je makkelijke andere IoT Platforms kan integreren zoals SAP1 , Salesforce ,Oracle, Websphere ,etc. Deze bedrijven hebben allemaal hun eigen Cloud IoT Platform ontwikkeld die je dan kan implementeren in dit IoT Platform. Dashboard en visuele weergave zijn ook een functionaliteit dat ze aanbieden. Live streaming mogelijk via dit IoT Platform. 
+Als we naar hun IoT Platform kijken zien we dat deze ook voldoen aan bepaalde functionaliteiten. Deze zijn namelijk een makkelijke registratie van de elektrische toestellen. Waar hun IoT Platforms ook voor staan is dat je makkelijke andere IoT Platforms kan integreren zoals [SAP][1] , Salesforce ,Oracle, Websphere ,etc. Deze bedrijven hebben allemaal hun eigen Cloud IoT Platform ontwikkeld die je dan kan implementeren in dit IoT Platform. Dashboard en visuele weergave zijn ook een functionaliteit dat ze aanbieden. Live streaming mogelijk via dit IoT Platform. 
 
+![image](https://user-images.githubusercontent.com/50316143/78038921-b7c51f00-736d-11ea-9960-ff876b59d55d.png)
+-----------------------------------------------
+[1]: Systems, Application and data processing
 
 Als we dan kijken naar de voordelen van dit Cloud IoT Platform. Zien we dat bij dit IoT Platform makkelijk kan samenwerken met andere bedrijven die ook bezig zijn met web applicaties, web en data processing. Een ander groot voordeel van dit IoT Platform is dat het zeer veilig is en schaalbaar. Het laatste voordeel van dit platform is dat het een hoge beschikbaarheid heeft. Je bezit over een heel groot aantal GB opslagcapaciteit. 
 
@@ -42,6 +49,8 @@ Als we dan naar de nadelen kijken van dit IoT Platform kunnen we zeggen dat dat 
 ### 3.3 Google Cloud IoT Platform
 
 Het volgende Cloud IoT Platform dat we kennen is ons zeker niet onbekend. We weten al dat Google van alle markten thuis is wat technologieën betreft waardoor ze dan ook hun eigen Cloud IoT Platform hebben. Google Cloud IoT Platform wordt gezien als één van de beste IoT Platforms. Dit komt doordat Google zelf end-to-end platforms heeft. Dit heeft als enorme voordeel dat ze makelijk kunen conneteren met het netwerk,  data kunnen opslaan en dan ook die data kunnen beheren. Het is voornamelijk om je business te schalen. Google heeft als hoofddoel zijn gebruikers het zo makkelijk mogelijk te maken. Het Google Cloud Platform speelt in op bepaalde functionaliteiten dat zei belangrijk vinden. Het Google Cloud Platform IoT Platform die heeft een zeer hoog opslaggeheugen. Het bevat een zeer hoge bescherming, is intelligent en zorgt voor snel reagerende data. Het is effeciënt en schaalbaar en analyseert veel data. 
+
+![image](https://user-images.githubusercontent.com/50316143/78039042-dd522880-736d-11ea-95b0-31a0ca11bfd2.png)
 
 De voordelen van het Google Cloud Platform zijn dat het Google Cloud Platform data rap kan invoeren en uitvoeren. De tijd om toestemming te krijgen is heel rap en je kan er  ook andere Google toepassingen in implementeren.
 
@@ -55,7 +64,7 @@ Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat v
 
 Als we dan naar de functionaliteiten kijken van dit platform kunnen we zeggen dat de juist geregistreerde data direct veranderen. Ze verzekeren een veilige communicatie en cognitieve systemen. En je kan er zelf de data over het weer mee oproepen.
 
-
+![image](https://user-images.githubusercontent.com/50316143/78039089-f22ebc00-736d-11ea-870d-6fc39eddd941.png)
 
 De grote voordelen aan dit platform zijn dan weer dat het platform in staat is om onbelaste data te verwerken. Het heel wat data te gelijk kan verwerken en de gebruikservaring  verbetert. 
 
@@ -67,6 +76,7 @@ AWS IoT Platform is een platform dat gemaakt is door Amazon. Amazon is zeker ook
 
 Dit platform bevat ook enkel functionaliteiten. Deze bestaan er uit dat je makkelijk je toestellen kan beheren.Dat er een veilige connectie wordt verzekerd tussen de verschillende toestellen. Er wordt gedaan aan identificatie en gaan automatisch berichten gaan vertalen naar een code die derden niet kunnen vertalen zonder over de juiste key te beschikken.
 
+![image](https://user-images.githubusercontent.com/50316143/78039158-083c7c80-736e-11ea-992a-cf937b58a867.png)
 
 Het voordeel is dat het AWS IoT Platform een goede integratie verzekert van LAAS. Dat de prijs vermindert naar gelang de jaren. Dat het platform Open en flexible is. 
 
@@ -91,6 +101,10 @@ Zo heb ik de grootste techgiganten Cloud IoT platforms uitgelegd maar je hebt er
 
 
 ---------------
+<!--Reference links in article-->
+
+[2]: http://search.yahoo.com/
+[3]: http://search.msn.com/
 
 ------------------------------------------------------------
 #### Sources
