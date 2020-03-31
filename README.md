@@ -35,7 +35,11 @@ Als we dan kijken naar de voordelen van dit Cloud IoT Platform. Zien we dat bij 
 
 Als we dan naar de nadelen kijken van dit IoT Platform kunnen we zeggen dat dat er vereist beheer moet zijn vooral eer we dit IoT Platform kunnen gebruiken. Daarmee die externe bedrijven die makkelijk te integreren zijn om dit beheer zo vlot mogelijk te laten verlopen. Het is een zeer duur Cloud IoT Platform en bij het optreden van een bug binnen dit IoT Platform wordt er geen ondersteuning geboden. Wat een enorm nadeel kan zijn. 
 
+<<<<<<< HEAD
 3.3 Google Cloud IoT Platform
+=======
+3.3 Google Cloud IoT Platform
+>>>>>>> 18dc6fcc4ba751c77942c65255ae2cf0d7da14da
 
 Het volgende Cloud IoT Platform dat we kennen is ons zeker niet onbekend. We weten al dat Google van alle markten thuis is wat technologieën betreft waardoor ze dan ook hun eigen Cloud IoT Platform hebben. Google Cloud IoT Platform wordt gezien als één van de beste IoT Platforms. Dit komt doordat Google zelf end-to-end platforms heeft. Dit heeft als enorme voordeel dat ze makelijk kunen conneteren met het netwerk,  data kunnen opslaan en dan ook die data kunnen beheren. Het is voornamelijk om je business te schalen. Google heeft als hoofddoel zijn gebruikers het zo makkelijk mogelijk te maken. Het Google Cloud Platform speelt in op bepaalde functionaliteiten dat zei belangrijk vinden. Het Google Cloud Platform IoT Platform die heeft een zeer hoog opslaggeheugen. Het bevat een zeer hoge bescherming, is intelligent en zorgt voor snel reagerende data. Het is effeciënt en schaalbaar en analyseert veel data. 
 
@@ -43,9 +47,13 @@ De voordelen van het Google Cloud Platform zijn dat het Google Cloud Platform da
 
 De grote nadelen van dit Google Cloud Platform zijn. Je kan er enkel Google services in implementeren en geen andere toepassingen van andere bedrijven. Er is een limiet van programeertalen die het kan gebruiken. 
 
+<<<<<<< HEAD
 3.4 IBM Watson IoT Platform
+=======
+3.4 IBM Watson IoT Platform
+>>>>>>> 18dc6fcc4ba751c77942c65255ae2cf0d7da14da
 
-Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook ��n van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en interfaces2. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
+Een ander IoT Platform dat we kennen is het IBM Watson IoT Platform. IBM staat voor International Business Model. Dit is ook één van de eerste technologie giganten die we kennen in de IT wereld. Het is dan ook geen verrassing dat zei ook hun eigen Cloud IoT Plaform hebben. Dit platform wordt vooral gebruikt als server. Ze worden vooral gebruikt voor applicaties en interfaces2. Ze maken het toegankelijk voor beginners waar ze zichzelf wel in onderscheiden van andere platforms. 
 
 Als we dan naar de functionaliteiten kijken van dit platform kunnen we zeggen dat de juist geregistreerde data direct veranderen. Ze verzekeren een veilige communicatie en cognitieve systemen. En je kan er zelf de data over het weer mee oproepen.
 
@@ -75,6 +83,7 @@ Zo heb ik de grootste techgiganten Cloud IoT platforms uitgelegd maar je hebt er
 
 
 Sources
+
 https://dzone.com/articles/10-cloud-platforms-for-internet-of-things-iot
 https://internetofthingsnederland.nl/iot-platform-toepassingen/
 https://www.seniorweb.nl/artikel/wat-is-cloud
@@ -93,9 +102,7 @@ https://go.spirent.com/EB-Lab-as-a-Service.html?utm_source=google&utm_medium=cpc
 
 
 
-1 Systems, Application and data processing
-2 Wat we visueel zien
-3 Lab as an service
+
 ---------------
 
 ------------------------------------------------------------
